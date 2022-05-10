@@ -1,7 +1,7 @@
 <h1 align="center" > # Hi, I'm Vitor Santos Devs :wave: </h1>
 
 <p align="center">
-  <a href="#"><img src="https://angular-buch.com/assets/img/book-cover-multiple.png" alt="#"></img></a>
+  <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScRPu_-xoQn_jGVQztUzK5gsXHznYPgJR_xr8DXjRKjjSNFX7KERV875E-ftyjqjLMX68&usqp=CAU" alt="#"></img></a>
 </p>
 
 <br/>
@@ -10,7 +10,7 @@
   <samp>
  <b> Let me introduce myself,</b>
 
-My name is vitor Santos and I am in career transition.
+My name is <b>Vitor Santos</b> and I am in career transition.
 
 I'm Brazilian and I live in Rio de Janeiro.
 
