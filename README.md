@@ -21,8 +21,10 @@ Now I find myself transitioning to Front-end Developer based on Javascript -> Re
   <br/>
   <br/>
 <b> OBS: This perfil is under construction </b>
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/WoErBV0Detcum33FJQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Staatsloterij-staatsloterij-construction-worker-bouwvakker-WoErBV0Detcum33FJQ">via GIPHY</a></p>
-  
+
+<a href="#">
+  <img align="center" src="https://media.giphy.com/media/WoErBV0Detcum33FJQ/giphy.gif" width="500 " height="300" />
+</a>
 </p>
 
 
