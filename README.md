@@ -22,9 +22,6 @@ Now I find myself transitioning to Front-end Developer based on Javascript -> Re
   <br/>
 <b> OBS: This perfil is under construction </b>
 
-<a href="#">
-  <img align="center" src="https://media.giphy.com/media/WoErBV0Detcum33FJQ/giphy.gif" width="500 " height="300" />
-</a>
 </p>
 
 
