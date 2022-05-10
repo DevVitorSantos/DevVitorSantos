@@ -1,7 +1,7 @@
-<h1 align="center" > # Hi, I'm Vitor Santos Devs :wave: </h1>
+<h1 align="center" > # Hi, I'm Vitor Santos :wave: </h1>
 
 <p align="center">
-  <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScRPu_-xoQn_jGVQztUzK5gsXHznYPgJR_xr8DXjRKjjSNFX7KERV875E-ftyjqjLMX68&usqp=CAU" alt="#"></img></a>
+  <a href="#"><img src="https://ms314006.github.io/static/b7a8f321b0bbc07ca9b9d22a7a505ed5/97b31/React.jpg" alt="#"></img></a>
 </p>
 
 <br/>
@@ -20,6 +20,8 @@ Now I find myself transitioning to Front-end Developer based on Javascript -> Re
   </samp>
   <br/>
   <br/>
+<b> OBS: This perfil is under construction </b>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/WoErBV0Detcum33FJQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Staatsloterij-staatsloterij-construction-worker-bouwvakker-WoErBV0Detcum33FJQ">via GIPHY</a></p>
   
 </p>
 
@@ -35,9 +37,8 @@ Now I find myself transitioning to Front-end Developer based on Javascript -> Re
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
 </p>
 
-## Contact me :speech_balloon:
+## Get in touch wit me! :speech_balloon:
 
-Get in touch wit me!
 
 :e-mail: <a href="mailto:vitorsantos.seo@gmail.com">Send an e-mail</a>
 
